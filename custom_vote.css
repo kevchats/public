@@ -11,6 +11,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 /*
 * "custom" refers to the theme assigned to the poll element
 */
+body{background: #000;}
 .custom {
 	background: #000;
 	width: 705px;
