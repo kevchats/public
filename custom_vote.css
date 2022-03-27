@@ -46,7 +46,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 .custom .total strong,
 .custom .duration strong {
 	color: #ffa;
-	font-size: 20px;
+	font-size: 16px;
 	display: block;
 }
 .custom .total {
@@ -72,17 +72,15 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	opacity: 0.3;
 }
 .custom.active .options li.help {
-	height: 35px;
+	height: 20px;
 }
 .custom .options li {
 	position: relative;
 	border: 1px;
-	padding: 10px;
+	padding: 5px;
 	color: #fff;
 	text-overflow: ellipsis;
 	background: #888;
-	padding-right: 55px;
-	padding-left: 55px;
 	font-size: 15px;
 }
 .custom .options li.question {
@@ -90,7 +88,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	white-space: normal;
 	clear: both;
 	line-height: 1.3;
-	font-size: 20px;
+	font-size: 14px;
 	position: relative;
 }
 .custom .options li.help {
@@ -100,6 +98,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 }
 .custom .options li.help span {
 	display: block;
+	font-size: 12px;
 	padding: 5px;
 }
 .custom .options li .procent {
