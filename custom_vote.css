@@ -147,7 +147,6 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 .custom .credits {
 	text-align: center;
 	opacity: 1;
-	transition: all 1s;
 	height: 25px;
 	clear: both;
 	overflow: hidden;
