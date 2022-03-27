@@ -12,7 +12,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 * "custom" refers to the theme assigned to the poll element
 */
 .custom {
-	background: #000;
+	background: rgba(0,0,0,.35);
 	width: 705px;
    	height: 204px;
 	transition: opacity 1s;
@@ -102,7 +102,7 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 }
 .custom .options li.help span {
 	display: block;
-	padding: 10px;
+	padding: 5px;
 }
 .custom .options li .procent {
 	position: absolute;
