@@ -115,11 +115,11 @@ Please keep the link to https://poll.ma.pe visible for a short period of time.
 	left: 10px;
 }
 .custom .options li .bar {
-	background: #444;
-	height: 5px;
+	background: #333;
+	height: 20px;
 }
 .custom .options li .bar .bar-inner {
-	background: rgba(255,255,255,1);
+	background: #000;
 	height: 100%;
 	width: 0;
 	transition: width 1s;
